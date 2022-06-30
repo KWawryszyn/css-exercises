@@ -1,0 +1,22 @@
+.klasa {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.lepsza_klasa {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+
+#dwa{
+    color: blue;
+    font-size: 36px;
+}
+
+#cztery{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
